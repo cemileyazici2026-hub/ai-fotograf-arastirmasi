@@ -54,6 +54,15 @@ Bu proje, Yazılım Mühendisliği Temelleri dersi kapsamında sistemin kodlama 
 
 **Analiz dosyası:** [Hafta 6 Veri Analizi](Hafta6_Veri_Analizi_361526101_Cemile_Yazici.ipynb)
 
+### Dosya ve Çıktı Düzeni
+
+- `README.md`: Proje açıklaması ve dokümantasyon.
+- `Hafta6_Veri_Analizi_361526101_Cemile_Yazici.ipynb`: Veri analizi ve grafikler.
+- UML görselleri: Projenin diyagram dosyaları.
+- Grafik çıktıları: Notebook içerisinde oluşturulmuş ve görüntülenmiştir.
+
+**GitHub depo bağlantısı:** [ai-fotograf-arastirmasi](https://github.com/cemileyazici2026-hub/ai-fotograf-arastirmasi)
+
 **Kullanılan araçlar:** Python, Pandas, Matplotlib ve Google Colab.
 
 **Çalışma kapsamında:** Veri seti incelenmiş, sayısal analizler yapılmış, grafikler oluşturulmuş ve sonuçlar akademik olarak yorumlanmıştır.

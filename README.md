@@ -50,6 +50,12 @@ Bu proje, Yazılım Mühendisliği Temelleri dersi kapsamında sistemin kodlama 
 
 **Veri kaynağı:** [A (Mid)journey Through Reality](https://github.com/mirkocasu/a-mid-journey-through-reality)
 
+**Veri seti yazarları:** Mirko Casu, Luca Guarnera, Ignazio Zangara, Pasquale Caponnetto ve Sebastiano Battiato.
+
+**Yayın yılı:** 2025.
+
+**Lisans:** CC BY 4.0.
+
 **Veri dosyası:** `responses_task.csv`
 
 **Analiz dosyası:** [Hafta 6 Veri Analizi](Hafta6_Veri_Analizi_361526101_Cemile_Yazici.ipynb)

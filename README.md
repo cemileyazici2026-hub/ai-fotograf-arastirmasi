@@ -42,3 +42,18 @@ Proje Durumu
 
 Bu proje, Yazılım Mühendisliği Temelleri dersi kapsamında sistemin kodlama aşamasından önce modellenmesi amacıyla hazırlanmıştır. UML diyagramları ile sistemin işleyişi ve yapısı açıklanmıştır.
 
+-------------------------------------------------------------------------------------
+
+## Hafta 6 – Veri Analizi
+
+**Görev paylaşımı:** Bireysel çalışma.
+
+**Veri kaynağı:** [A (Mid)journey Through Reality](https://github.com/mirkocasu/a-mid-journey-through-reality)
+
+**Veri dosyası:** `responses_task.csv`
+
+**Analiz dosyası:** [Hafta 6 Veri Analizi](Hafta6_Veri_Analizi_361526101_Cemile_Yazici.ipynb)
+
+**Kullanılan araçlar:** Python, Pandas, Matplotlib ve Google Colab.
+
+**Çalışma kapsamında:** Veri seti incelenmiş, sayısal analizler yapılmış, grafikler oluşturulmuş ve sonuçlar akademik olarak yorumlanmıştır.
